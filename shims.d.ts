@@ -22,3 +22,4 @@ declare module '*.vue' {
   export default component
 }
 //this is comment
+//this is comment
